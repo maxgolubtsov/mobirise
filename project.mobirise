@@ -41,8 +41,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Main | Desing Studio ROMM",
+        "meta_descr": "Desing Studio ROMM",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
