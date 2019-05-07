@@ -1416,6 +1416,13 @@ body {
 .cid-rpLJh8HeJf {
   background: linear-gradient(45deg, #55b4d4, #073b4c);
 }
+.cid-rpLUk3XKfD {
+  background: linear-gradient(45deg, #e4d295, #ff3366);
+}
+.cid-rpLUk3XKfD .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
+}
 .cid-rpLT5a826E {
   background-image: url("../../../assets/images/background4.jpg");
 }
